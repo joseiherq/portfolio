@@ -1,26 +1,50 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "company": "CoverWallet (Aon)",
+    "role": "Software Engineer",
+    "period": "Apr 2024 - Present",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "description": "Software Engineer working remotely on full-stack solutions at CoverWallet, part of Aon.",
+    "skills": []
   },
   {
-    "company": "Demo Company",
+    "company": "Edosoft Factory",
     "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
+    "period": "Dec 2018 - Apr 2024",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "description": "Full-stack developer contributing to web applications and backend services.",
+    "skills": []
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "Move Smart City",
+    "role": "Full-stack Developer",
+    "period": "Feb 2018 - Dec 2018",
+    "type": "Full time job",
+    "description": "Full-stack developer working on smart city solutions.",
+    "skills": []
+  },
+  {
+    "company": "StartDevs",
+    "role": "Legal Representative & Full-stack Developer",
+    "period": "Dec 2014 - Jan 2018",
+    "type": "Entrepreneur",
+    "description": "Founder and legal representative; developed full-stack products and led business operations.",
+    "skills": []
+  },
+  {
+    "company": "Freelance",
+    "role": "Full-stack Developer (Freelancer)",
+    "period": "Sep 2014 - Nov 2014",
+    "type": "Contract",
+    "description": "Short-term freelance projects developing web applications.",
+    "skills": []
+  },
+  {
+    "company": "Universidad de La Laguna",
+    "role": "Bachelor's Degree in Computer Engineering",
+    "period": "2008 - 2014",
+    "type": "Education",
+    "description": "Bachelor's degree in Computer Engineering (Ingeniería Informática).",
+    "skills": []
   }
 ]
